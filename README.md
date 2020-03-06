@@ -71,6 +71,45 @@
 <div class="thumbcaption">&nbsp;</div>
 </div>
 </div>
+
+
+
+</br>
+<h2>Publications </h2>
+<ul>
+ <li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(1).pdf" style="text-decoration:none;">The UNIX Time Sharing System</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(2).pdf" style="text-decoration:none;">Recent Changes to C</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(3).pdf" style="text-decoration:none;">The Development of the C Language</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(4).pdf" style="text-decoration:none;">Computing Science Technical Report No. 102: The C Language Calling Sequence</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(5).pdf" style="text-decoration:none;">C
+Reference Manual</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(6).pdf" style="text-decoration:none;">Multiprogramming STRETCH: feasibility considerations</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(7).pdf" style="text-decoration:none;">Programming in C &minus; A Tutorial</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(8).pdf" style="text-decoration:none;">The Evolution of the Unix Time-sharing System </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(9).pdf" style="text-decoration:none;">Interprocess Communication in the Ninth Edition Unix System</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(10).pdf" style="text-decoration:none;">A Stream Input Output System</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(11).pdf" style="text-decoration:none;">Variable Size Arrays in C </a></li>
+
+
+
+
+
+
+
+
+</ul>
+</br>
+
+
+
+
+
+
+
+
 <p>Like most procedural languages in the&nbsp;<a title="ALGOL" href="https://en.wikipedia.org/wiki/ALGOL">ALGOL</a>&nbsp;tradition, C has facilities for&nbsp;<a title="Structured programming" href="https://en.wikipedia.org/wiki/Structured_programming">structured programming</a>&nbsp;and allows&nbsp;<a class="mw-redirect" title="Lexical variable scope" href="https://en.wikipedia.org/wiki/Lexical_variable_scope">lexical variable scope</a>&nbsp;and recursion. Its static&nbsp;<a title="Type system" href="https://en.wikipedia.org/wiki/Type_system">type system</a>&nbsp;prevents unintended operations. In C, all&nbsp;<a class="mw-redirect" title="Executable code" href="https://en.wikipedia.org/wiki/Executable_code">executable code</a>&nbsp;is contained within&nbsp;<a title="Subroutine" href="https://en.wikipedia.org/wiki/Subroutine">subroutines</a>&nbsp;(also called "functions", though not strictly in the sense of&nbsp;<a title="Functional programming" href="https://en.wikipedia.org/wiki/Functional_programming">functional programming</a>).&nbsp;<a title="Parameter (computer programming)" href="https://en.wikipedia.org/wiki/Parameter_(computer_programming)">Function parameters</a>&nbsp;are always passed by value. Pass-by-reference is simulated in C by explicitly passing&nbsp;<a title="Pointer (computer programming)" href="https://en.wikipedia.org/wiki/Pointer_(computer_programming)">pointer</a>&nbsp;values. C program source text is&nbsp;<a title="Free-form language" href="https://en.wikipedia.org/wiki/Free-form_language">free-format</a>, using the&nbsp;<a title="Semicolon" href="https://en.wikipedia.org/wiki/Semicolon">semicolon</a>&nbsp;as a&nbsp;<a class="mw-redirect" title="Statement (programming)" href="https://en.wikipedia.org/wiki/Statement_(programming)">statement</a>&nbsp;terminator and&nbsp;<a class="mw-redirect" title="Curly braces" href="https://en.wikipedia.org/wiki/Curly_braces">curly braces</a>&nbsp;for grouping&nbsp;<a class="mw-redirect" title="Blocks of statements" href="https://en.wikipedia.org/wiki/Blocks_of_statements">blocks of statements</a>.</p>
 <p>The C language also exhibits the following characteristics:</p>
 <ul>
