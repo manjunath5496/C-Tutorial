@@ -181,6 +181,13 @@ Reference Manual</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(22).pdf" style="text-decoration:none;">Space Travel: Exploring the solar system and the PDP-7</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(23).pdf" style="text-decoration:none;">The Inferno Operating System</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(24).pdf" style="text-decoration:none;">Advanced Programming in the UNIX Environment </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(25).pdf" style="text-decoration:none;">The complexity of loop programs </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(26).pdf" style="text- decoration:none;">Portability of C Programs and the UNIX System</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(27).pdf" style="text-decoration:none;">Unix Programmer's Manual </a></li>
 
 </ul>
 </br>
