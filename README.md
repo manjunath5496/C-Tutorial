@@ -85,7 +85,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(4).pdf" style="text-decoration:none;">Computing Science Technical Report No. 102: The C Language Calling Sequence</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(5).pdf" style="text-decoration:none;">C
 Reference Manual</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(6).pdf" style="text-decoration:none;">Multiprogramming STRETCH: feasibility considerations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(6).pdf" style="text-decoration:none;">Letter from Washington: The National Medal of Technology Experience</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(7).pdf" style="text-decoration:none;">Programming in C &minus; A Tutorial</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(8).pdf" style="text-decoration:none;">The Evolution of the Unix Time-sharing System </a></li>
 
@@ -94,6 +94,9 @@ Reference Manual</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(11).pdf" style="text-decoration:none;">Variable Size Arrays in C </a></li>
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(12).pdf" style="text-decoration:none;">Odd Comments and Strange Doings in Unix</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(13).pdf" style="text-decoration:none;">Five Little Languages and How They Grew: Talk at HOPL</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(14).pdf" style="text-decoration:none;">KEN, UNIX, AND GAMES </a></li>
 
 
 
