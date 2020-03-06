@@ -189,6 +189,32 @@ Reference Manual</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(26).pdf" style="text- decoration:none;">Portability of C Programs and the UNIX System</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(27).pdf" style="text-decoration:none;">Unix Programmer's Manual </a></li>
 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(28).pdf" style="text-decoration:none;">Password Security: A Case History</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(29).pdf" style="text-decoration:none;">Parallel genetic evolution and speciation from standing variation</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(30).pdf" style="text-decoration:none;">Unix and
+Beyond: An Interview with Ken Thompson</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(31).pdf" style="text-decoration:none;">A New C Compiler</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(32).pdf" style="text-decoration:none;">Reflections on Trusting Trust </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(33).pdf" style="text-decoration:none;">UNIX Implementation </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(34).pdf" style="text- decoration:none;">Hello World</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(35).pdf" style="text-decoration:none;">Regular Expression Search Algorithm</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(36).pdf" style="text-decoration:none;">Programming languages - C - Extensions to support embedded processors </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(37).pdf" style="text- decoration:none;">Sibling Rivalry: C and C++</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(38).pdf" style="text-decoration:none;">A Research UNIX Reader: Annotated Excerpts from the Programmer's Manual, 1971-1986</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(39).pdf" style="text-decoration:none;">Programming languages — C</a></li>
+
+
+
+
 </ul>
 </br>
 
