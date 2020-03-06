@@ -59,7 +59,7 @@
 <th colspan="2">Influenced by</th>
 </tr>
 <tr>
-<td colspan="2"><a title="B (programming language)" href="https://en.wikipedia.org/wiki/B_(programming_language)">B</a>&nbsp;(<a title="BCPL" href="https://en.wikipedia.org/wiki/BCPL">BCPL</a>,&nbsp;<a title="CPL (programming language)" href="https://en.wikipedia.org/wiki/CPL_(programming_language)">CPL</a>),&nbsp;<a title="ALGOL 68" href="https://en.wikipedia.org/wiki/ALGOL_68">ALGOL 68</a>,<sup id="cite_ref-dottcl_3-0" class="reference"><a href="https://en.wikipedia.org/wiki/C_(programming_language)#cite_note-dottcl-3">[3]</a></sup>&nbsp;<a title="Assembly language" href="https://en.wikipedia.org/wiki/Assembly_language">Assembly</a>,&nbsp;<a title="PL/I" href="https://en.wikipedia.org/wiki/PL/I">PL/I</a>,&nbsp;<a class="mw-redirect" title="FORTRAN" href="https://en.wikipedia.org/wiki/FORTRAN">FORTRAN</a></td>
+<td colspan="2"><a title="B (programming language)" href="https://en.wikipedia.org/wiki/B_(programming_language)">B</a>&nbsp;(<a title="BCPL" href="https://en.wikipedia.org/wiki/BCPL">BCPL</a>,&nbsp;<a title="CPL (programming language)" href="https://en.wikipedia.org/wiki/CPL_(programming_language)">CPL</a>),&nbsp;<a title="ALGOL 68" href="https://en.wikipedia.org/wiki/ALGOL_68">ALGOL 68</a>,&nbsp;<a title="Assembly language" href="https://en.wikipedia.org/wiki/Assembly_language">Assembly</a>,&nbsp;<a title="PL/I" href="https://en.wikipedia.org/wiki/PL/I">PL/I</a>,&nbsp;<a class="mw-redirect" title="FORTRAN" href="https://en.wikipedia.org/wiki/FORTRAN">FORTRAN</a></td>
 </tr>
 <tr>
 <th colspan="2">Influenced</th>
