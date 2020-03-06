@@ -2,10 +2,79 @@
 <p>C was originally developed at&nbsp;<a title="Bell Labs" href="https://en.wikipedia.org/wiki/Bell_Labs">Bell Labs</a>&nbsp;by&nbsp;<a title="Dennis Ritchie" href="https://en.wikipedia.org/wiki/Dennis_Ritchie">Dennis Ritchie</a>&nbsp;between 1972 and 1973 to make utilities running on&nbsp;<a title="Unix" href="https://en.wikipedia.org/wiki/Unix">Unix</a>. Later, it was applied to re-implementing the kernel of the Unix operating system.&nbsp;During the 1980s, C gradually gained popularity. It has become one of the&nbsp;<a title="Measuring programming language popularity" href="https://en.wikipedia.org/wiki/Measuring_programming_language_popularity">most widely used programming languages</a>,&nbsp;with C&nbsp;<a title="Compiler" href="https://en.wikipedia.org/wiki/Compiler">compilers</a>&nbsp;from various vendors available for the majority of existing&nbsp;<a title="Computer architecture" href="https://en.wikipedia.org/wiki/Computer_architecture">computer architectures</a>&nbsp;and operating systems. C has been standardized by the&nbsp;<a title="American National Standards Institute" href="https://en.wikipedia.org/wiki/American_National_Standards_Institute">ANSI</a>&nbsp;since 1989 (see&nbsp;<a title="ANSI C" href="https://en.wikipedia.org/wiki/ANSI_C">ANSI C</a>) and by the&nbsp;<a title="International Organization for Standardization" href="https://en.wikipedia.org/wiki/International_Organization_for_Standardization">International Organization for Standardization</a>.</p>
 <p>C is an&nbsp;<a title="Imperative programming" href="https://en.wikipedia.org/wiki/Imperative_programming">imperative</a>&nbsp;<a title="Procedural programming" href="https://en.wikipedia.org/wiki/Procedural_programming">procedural</a>&nbsp;language. It was designed to be compiled using a relatively straightforward&nbsp;<a title="Compiler" href="https://en.wikipedia.org/wiki/Compiler">compiler</a>&nbsp;to provide&nbsp;<a title="Low-level programming language" href="https://en.wikipedia.org/wiki/Low-level_programming_language">low-level</a>&nbsp;access to&nbsp;<a title="Computer memory" href="https://en.wikipedia.org/wiki/Computer_memory">memory</a>&nbsp;and language constructs that map efficiently to&nbsp;<a title="Machine code" href="https://en.wikipedia.org/wiki/Machine_code">machine instructions</a>, all with minimal&nbsp;<a title="Runtime system" href="https://en.wikipedia.org/wiki/Runtime_system">runtime support</a>. Despite its low-level capabilities, the language was designed to encourage&nbsp;<a title="Cross-platform software" href="https://en.wikipedia.org/wiki/Cross-platform_software">cross-platform</a>&nbsp;programming. A&nbsp;<a title="Specification (technical standard)" href="https://en.wikipedia.org/wiki/Specification_(technical_standard)">standards</a>-compliant C program written with&nbsp;<a title="Porting" href="https://en.wikipedia.org/wiki/Porting">portability</a>&nbsp;in mind can be compiled for a wide variety of computer platforms and operating systems with few changes to its source code. The language is available on various platforms, from embedded&nbsp;<a title="Microcontroller" href="https://en.wikipedia.org/wiki/Microcontroller">microcontrollers</a>&nbsp;to&nbsp;<a title="Supercomputer" href="https://en.wikipedia.org/wiki/Supercomputer">supercomputers</a>.</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 
-
+<table class="infobox vevent">
+<tbody>
+<tr>
+<th scope="row"><a title="Programming paradigm" href="https://en.wikipedia.org/wiki/Programming_paradigm">Paradigm</a></th>
+<td><a title="Imperative programming" href="https://en.wikipedia.org/wiki/Imperative_programming">Imperative</a>&nbsp;(<a title="Procedural programming" href="https://en.wikipedia.org/wiki/Procedural_programming">procedural</a>),&nbsp;<a title="Structured programming" href="https://en.wikipedia.org/wiki/Structured_programming">structured</a></td>
+</tr>
+<tr>
+<th scope="row"><a title="Software design" href="https://en.wikipedia.org/wiki/Software_design">Designed&nbsp;by</a></th>
+<td><a title="Dennis Ritchie" href="https://en.wikipedia.org/wiki/Dennis_Ritchie">Dennis Ritchie</a></td>
+</tr>
+<tr>
+<th scope="row"><a class="mw-redirect" title="Software developer" href="https://en.wikipedia.org/wiki/Software_developer">Developer</a></th>
+<td class="organiser"><a title="Dennis Ritchie" href="https://en.wikipedia.org/wiki/Dennis_Ritchie">Dennis Ritchie</a>&nbsp;&amp;&nbsp;<a title="Bell Labs" href="https://en.wikipedia.org/wiki/Bell_Labs">Bell Labs</a>&nbsp;(creators); ANSI X3J11 (<a title="ANSI C" href="https://en.wikipedia.org/wiki/ANSI_C">ANSI C</a>);&nbsp;<span class="nowrap">ISO/IEC JTC1/SC22/WG14</span>&nbsp;(ISO C)</td>
+</tr>
+<tr>
+<th scope="row">First&nbsp;appeared</th>
+<td>1972<span class="noprint">; 48&nbsp;years ago</span></td>
+</tr>
+<tr>
+<td colspan="2">&nbsp;</td>
+</tr>
+<tr>
+<th scope="row"><a title="Software release life cycle" href="https://en.wikipedia.org/wiki/Software_release_life_cycle">Stable release</a></th>
+<td>
+<div><a title="C18 (C standard revision)" href="https://en.wikipedia.org/wiki/C18_(C_standard_revision)">C18</a>&nbsp;/ June&nbsp;2018<span class="noprint">; 1&nbsp;year ago</span></div>
+</td>
+</tr>
+<tr>
+<th scope="row"><a title="Type system" href="https://en.wikipedia.org/wiki/Type_system">Typing discipline</a></th>
+<td><a title="Type system" href="https://en.wikipedia.org/wiki/Type_system">Static</a>,&nbsp;<a class="mw-redirect" title="Weak typing" href="https://en.wikipedia.org/wiki/Weak_typing">weak</a>,&nbsp;<a title="Manifest typing" href="https://en.wikipedia.org/wiki/Manifest_typing">manifest</a>,&nbsp;<a title="Nominal type system" href="https://en.wikipedia.org/wiki/Nominal_type_system">nominal</a></td>
+</tr>
+<tr>
+<th scope="row"><a title="Operating system" href="https://en.wikipedia.org/wiki/Operating_system">OS</a></th>
+<td><a class="mw-redirect" title="Cross-platform" href="https://en.wikipedia.org/wiki/Cross-platform">Cross-platform</a></td>
+</tr>
+<tr>
+<th scope="row"><a title="Filename extension" href="https://en.wikipedia.org/wiki/Filename_extension">Filename extensions</a></th>
+<td>.c, .h</td>
+</tr>
+<tr>
+<th colspan="2">Major&nbsp;<a title="Programming language implementation" href="https://en.wikipedia.org/wiki/Programming_language_implementation">implementations</a></th>
+</tr>
+<tr>
+<td colspan="2">K&amp;R,&nbsp;<a title="GNU Compiler Collection" href="https://en.wikipedia.org/wiki/GNU_Compiler_Collection">GCC</a>,&nbsp;<a title="Clang" href="https://en.wikipedia.org/wiki/Clang">Clang</a>,&nbsp;<span class="nowrap"><a title="Intel C++ Compiler" href="https://en.wikipedia.org/wiki/Intel_C%2B%2B_Compiler">Intel C</a>,</span>&nbsp;<a title="C++Builder" href="https://en.wikipedia.org/wiki/C%2B%2BBuilder">C++Builder</a>,&nbsp;<span class="nowrap"><a title="Microsoft Visual C++" href="https://en.wikipedia.org/wiki/Microsoft_Visual_C%2B%2B">Microsoft Visual C++</a></span>,&nbsp;<span class="nowrap"><a title="Watcom C/C++" href="https://en.wikipedia.org/wiki/Watcom_C/C%2B%2B">Watcom C</a></span></td>
+</tr>
+<tr>
+<th colspan="2"><a title="Programming language" href="https://en.wikipedia.org/wiki/Programming_language#Dialects,_flavors_and_implementations">Dialects</a></th>
+</tr>
+<tr>
+<td colspan="2"><a title="Cyclone (programming language)" href="https://en.wikipedia.org/wiki/Cyclone_(programming_language)">Cyclone</a>,&nbsp;<a title="Unified Parallel C" href="https://en.wikipedia.org/wiki/Unified_Parallel_C">Unified Parallel C</a>,&nbsp;<a title="Split-C" href="https://en.wikipedia.org/wiki/Split-C">Split-C</a>,&nbsp;<a title="Cilk" href="https://en.wikipedia.org/wiki/Cilk">Cilk</a>,&nbsp;<a title="C*" href="https://en.wikipedia.org/wiki/C*">C*</a></td>
+</tr>
+<tr>
+<th colspan="2">Influenced by</th>
+</tr>
+<tr>
+<td colspan="2"><a title="B (programming language)" href="https://en.wikipedia.org/wiki/B_(programming_language)">B</a>&nbsp;(<a title="BCPL" href="https://en.wikipedia.org/wiki/BCPL">BCPL</a>,&nbsp;<a title="CPL (programming language)" href="https://en.wikipedia.org/wiki/CPL_(programming_language)">CPL</a>),&nbsp;<a title="ALGOL 68" href="https://en.wikipedia.org/wiki/ALGOL_68">ALGOL 68</a>,<sup id="cite_ref-dottcl_3-0" class="reference"><a href="https://en.wikipedia.org/wiki/C_(programming_language)#cite_note-dottcl-3">[3]</a></sup>&nbsp;<a title="Assembly language" href="https://en.wikipedia.org/wiki/Assembly_language">Assembly</a>,&nbsp;<a title="PL/I" href="https://en.wikipedia.org/wiki/PL/I">PL/I</a>,&nbsp;<a class="mw-redirect" title="FORTRAN" href="https://en.wikipedia.org/wiki/FORTRAN">FORTRAN</a></td>
+</tr>
+<tr>
+<th colspan="2">Influenced</th>
+</tr>
+<tr>
+<td colspan="2"><a title="Category:C programming language family" href="https://en.wikipedia.org/wiki/Category:C_programming_language_family">Numerous</a>:&nbsp;<a title="AMPL" href="https://en.wikipedia.org/wiki/AMPL">AMPL</a>,&nbsp;<a title="AWK" href="https://en.wikipedia.org/wiki/AWK">AWK</a>,&nbsp;<a title="C shell" href="https://en.wikipedia.org/wiki/C_shell">csh</a>,&nbsp;<a title="C++" href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a>,&nbsp;<a title="C--" href="https://en.wikipedia.org/wiki/C--">C--</a>,&nbsp;<a title="C Sharp (programming language)" href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#</a>,&nbsp;<a title="Objective-C" href="https://en.wikipedia.org/wiki/Objective-C">Objective-C</a>,&nbsp;<a title="D (programming language)" href="https://en.wikipedia.org/wiki/D_(programming_language)">D</a>,&nbsp;<a title="Go (programming language)" href="https://en.wikipedia.org/wiki/Go_(programming_language)">Go</a>,&nbsp;<a title="Java (programming language)" href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a>,&nbsp;<a title="JavaScript" href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a>,&nbsp;<a title="Julia (programming language)" href="https://en.wikipedia.org/wiki/Julia_(programming_language)">Julia</a>,&nbsp;<a title="Limbo (programming language)" href="https://en.wikipedia.org/wiki/Limbo_(programming_language)">Limbo</a>,&nbsp;<a title="LPC (programming language)" href="https://en.wikipedia.org/wiki/LPC_(programming_language)">LPC</a>,&nbsp;<a title="Perl" href="https://en.wikipedia.org/wiki/Perl">Perl</a>,&nbsp;<a title="PHP" href="https://en.wikipedia.org/wiki/PHP">PHP</a>,&nbsp;<a title="Pike (programming language)" href="https://en.wikipedia.org/wiki/Pike_(programming_language)">Pike</a>,&nbsp;<a title="Processing (programming language)" href="https://en.wikipedia.org/wiki/Processing_(programming_language)">Processing</a>,&nbsp;<a title="Python (programming language)" href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a>, Ring,&nbsp;<a title="Rust (programming language)" href="https://en.wikipedia.org/wiki/Rust_(programming_language)">Rust</a>,&nbsp;<a title="Seed7" href="https://en.wikipedia.org/wiki/Seed7">Seed7</a>,&nbsp;<a title="Vala (programming language)" href="https://en.wikipedia.org/wiki/Vala_(programming_language)">Vala</a>,&nbsp;<a title="Verilog" href="https://en.wikipedia.org/wiki/Verilog">Verilog</a>&nbsp;(HDL),&nbsp;<a title="Nim (programming language)" href="https://en.wikipedia.org/wiki/Nim_(programming_language)">Nim</a></td>
+</tr>
+<tr>
+<td class="hlist" colspan="2">
+<p><a class="image" href="logo.png"><img class="noviewer" src="logo.png" srcset="logo.png" alt="" width="16" height="16" data-file-width="400" data-file-height="400" /></a>&nbsp;<a class="extiw" title="wikibooks:C Programming" href="https://en.wikibooks.org/wiki/C_Programming">C Programming</a>&nbsp;at Wikibooks</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
 
 <div class="toctitle" dir="ltr" lang="en">
 <h2>Contents</h2>
