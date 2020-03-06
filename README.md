@@ -212,7 +212,7 @@ Beyond: An Interview with Ken Thompson</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(39).pdf" style="text-decoration:none;">Programming languages — C</a></li>
 
-
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(40).pdf" style="text-decoration:none;">Interview with Dennis Ritchie</a></li>
 
 
 </ul>
