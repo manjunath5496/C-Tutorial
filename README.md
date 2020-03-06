@@ -99,8 +99,18 @@ Reference Manual</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(14).pdf" style="text-decoration:none;">KEN, UNIX, AND GAMES </a></li>
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(15).pdf" style="text-decoration:none;">Unix Portability</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(16).pdf" style="text-decoration:none;">Writings from the Past</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(17).pdf" style="text-decoration:none;">An Early Retrospective </a></li>
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(18).pdf" style="text-decoration:none;">A Stream Input Output System</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(19).pdf" style="text-decoration:none;">Users' Reference to B</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(20).pdf" style="text-decoration:none;">THE PROGRAMMING LANGUAGE B </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(21).pdf" style="text-decoration:none;">Dabbling in the Cryptographic World - A Story </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(22).pdf" style="text-decoration:none;">Space Travel: Exploring the solar system and the PDP-7</a></li>
 
 
 </ul>
