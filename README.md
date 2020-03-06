@@ -51,8 +51,8 @@
 <li class="toclevel-1 tocsection-23"><a href="#Language_tools"><span class="toctext">Language tools</span></a></li>
 <li class="toclevel-1 tocsection-24"><a href="#Uses"><span class="toctext">Uses</span></a></li>
 <li class="toclevel-1 tocsection-25"><a href="#Related_languages"><span class="toctext">Related languages</span></a></li>
- <li class="toclevel-1 tocsection-25"><a href="#Books"><span class="toctext">Books</span></a></li>   
-   <li class="toclevel-1 tocsection-25"><a href="#Papers"><span class="toctext">Papers</span></a></li>    
+ <li class="toclevel-1 tocsection-25"><a href="#Beginner C Exercises"><span class="toctext">Beginner C Exercises</span></a></li>   
+  
 </ul>
 
 
@@ -497,6 +497,7 @@ int main(void)
 <p>In addition to&nbsp;<a title="C++" href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a>&nbsp;and&nbsp;<a title="Objective-C" href="https://en.wikipedia.org/wiki/Objective-C">Objective-C</a>,&nbsp;<a title="Ch (computer programming)" href="https://en.wikipedia.org/wiki/Ch_(computer_programming)">Ch</a>,&nbsp;<a title="Cilk" href="https://en.wikipedia.org/wiki/Cilk">Cilk</a>&nbsp;and&nbsp;<a title="Unified Parallel C" href="https://en.wikipedia.org/wiki/Unified_Parallel_C">Unified Parallel C</a>&nbsp;are nearly supersets of C.</p>
 </br>
 
+<h2 id ="Beginner C Exercises">Beginner C Exercises </h2>
 
 # Question 1
 
