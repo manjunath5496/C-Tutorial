@@ -655,7 +655,7 @@ int main(void)
 <li><a href="https://manjunath5496.github.io/c-quiz/index.html">C Quiz</a></li>
  <li><a href="https://www.youtube.com/results?search_query=C+Tutorial">C programming videos </a></li>
  <li><a href="https://github.com/manjunath5496/C-Tutorial/blob/master/ck(41).pdf">100+ C Language Interview Questions</a></li>
- 
+ <li><a href="https://github.com/manjunath5496/C-Tutorial/blob/master/Lecture%20notes/README.MD">MIT Lecture Notes</a></li>
 </ul>
 
 </br>
