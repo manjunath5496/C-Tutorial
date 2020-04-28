@@ -123,5 +123,38 @@
 </tbody>
 </table>
 
+</br>
 
-
+<h2 class="subhead">Lab Assignments</h2>
+<div class="maintabletemplate">
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LAB&nbsp;#</th>
+<th scope="col">LABS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Lab 1: Game of life</td>
+<td>
+<p>(<a href="MIT6_087IAP10_lab01.pdf">PDF</a>)</p>
+<p>(<a href="lab01.zip">ZIP</a>) (This ZIP file contains:&nbsp;3 .txt files, 3 .c files and 1 .h file.)</p>
+</td>
+<td>(<a href="lab01_sol.zip">ZIP</a>) (This ZIP file contains:&nbsp;1 .txt file, 1 .h file and 4 .c files.)</td>
+</tr>
+<tr class="alt-row">
+<td>Lab 2: Data compression</td>
+<td>
+<p>(<a href="MIT6_087IAP10_lab02.pdf">PDF</a>)</p>
+<p>(<a href="lab02.zip">ZIP</a>) (This ZIP file contains:&nbsp;4 .txt files and 2 .c files.)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 class="subhead">Final Project</h2>
+<p>Final project description (<a href="MIT6_087IAP10_project.pdf">PDF</a>)</p>
+</br>
